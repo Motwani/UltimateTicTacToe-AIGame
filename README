@@ -1,6 +1,7 @@
-We are confused at the moment about how the assignemnt is to be done.
+The AI Bot Code lies in Team7.py
 
-where and how to import the other competitor's file and if we need to build the code from scratch
+Run - python evaluator_code.py 2
 
-if we just need to import the complete evaluator.py file including all the classes and the functions, then we don't have method to 
-know who won the toss
+This will start the game with Bot and Human player. :)
+
+Enjoy!
